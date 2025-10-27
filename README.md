@@ -179,7 +179,7 @@ export const trackDownload = (fileName) => {
 
 ### Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Wadoud-Me/portfolio)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://simple-portfolio23.netlify.app/)
 
 ### Manual Deployment
 
