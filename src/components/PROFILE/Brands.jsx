@@ -14,7 +14,7 @@ const Brands = () => {
         {BRANDS.map((brand) => (
           <div
             key={brand.name}
-            className="w-95 sm:w-full h-48 sm:h-36 md:h-40 rounded-2xl overflow-hidden grayscale hover:grayscale-0 transition-all duration-300 opacity-70 hover:opacity-100"
+            className="w-70 h-42 sm:w-full sm:h-36 md:h-40 rounded-2xl overflow-hidden grayscale hover:grayscale-0 transition-all duration-300 opacity-70 hover:opacity-100"
           >
             <img
               src={isDark ? brand.darkModeLogo : brand.lightModeLogo}
