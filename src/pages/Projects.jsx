@@ -118,7 +118,7 @@ const Projects = () => {
               className="group bg-bg-buttons rounded-xl overflow-hidden hover:shadow-xl transition-all duration-300 hover:-translate-y-2"
             >
               {/* Project Image */}
-              <div className="relative aspect-[16/12] overflow-hidden">
+              <div className="relative aspect-16/10 overflow-hidden">
                 <img
                   src={project.image}
                   alt={project.title}
