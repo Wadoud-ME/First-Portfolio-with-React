@@ -18,7 +18,7 @@ const Hero = () => {
           A Front-End Developer & Python Expert
         </p>
         <a
-          href="/files/Stoman-Resume.pdf"
+          href="/files/Chapter01.pdf"
           download="CV.pdf"
           className="w-fit cursor-pointer flex items-center justify-center gap-3 mx-auto lg:mx-0 px-6 py-3 text-base sm:text-lg font-medium text-white bg-bg-secondary hover:bg-[#4d4fcd] rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
         >
