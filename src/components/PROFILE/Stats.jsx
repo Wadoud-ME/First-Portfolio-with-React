@@ -6,7 +6,7 @@ const Stats = () => {
   const [counts, setCounts] = useState(STATISTICS.map(() => 0));
 
   useEffect(() => {
-    const duration = 2000; // 2 seconds
+    const duration = 3000; // 2 seconds
     const frameRate = 1000 / 60; // 60 FPS
     const totalFrames = Math.round(duration / frameRate);
     let frame = 0;
