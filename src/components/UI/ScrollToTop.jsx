@@ -29,7 +29,7 @@ const ScrollToTop = () => {
     <>
       {isVisible && (
         <button
-          className="fixed bottom-18 right-14 text-primary hover:text-bg-secondary bg-bg-buttons rounded-full p-2 cursor-pointer shadow-lg hover:scale-110 transition-all duration-300"
+          className="hidden sm:block fixed bottom-18 right-14 text-primary hover:text-bg-secondary bg-bg-buttons rounded-full p-2 cursor-pointer shadow-lg hover:scale-110 transition-all duration-300"
           onClick={scrollToTop}
         >
           <ChevronUp size={34} />
