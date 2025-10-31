@@ -6,7 +6,7 @@ A modern, responsive portfolio website built with React and Tailwind CSS, featur
 
 | Desktop View | Mobile View |
 |-------------|------------|
-| ![Desktop Screenshot](./screenshots/desktop_view.png) | ![Mobile Screenshot](./screenshots/mobile_view.png) |
+| ![Desktop Screenshot](./screenshots/desktop.png) | ![Mobile Screenshot](./screenshots/mobile.png) |
 
 ## ✨ Features
 
